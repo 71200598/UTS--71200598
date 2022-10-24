@@ -9,6 +9,7 @@ public class Engine {
         this.capacity=capacity;
     }
 
+
     public String getFuelType(){
         return fuelType;
     }
